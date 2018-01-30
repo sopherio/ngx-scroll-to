@@ -4,6 +4,7 @@
   "version": "0.5.0",
   "license": "MIT",
   "main": "dist/bundles/ngx-scroll-to.umd.js",
+  "types": "dist/ngx-scroll-to.d.ts",
   "module": "@nicky-lenaers/ngx-scroll-to.es5.js",
   "scripts": {
     "build": "ng build",
